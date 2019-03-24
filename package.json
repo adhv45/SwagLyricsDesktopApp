@@ -1,0 +1,21 @@
+{
+  "name": "SwagLyricsDesktopApp",
+  "version": "1.0.0",
+  "description": "desktop app for swaglyrics",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhv45/SwagLyricsDesktopApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhv45/SwagLyricsDesktopApp/issues"
+  },
+  "homepage": "https://github.com/adhv45/SwagLyricsDesktopApp#readme"
+}
